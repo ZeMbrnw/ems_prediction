@@ -1,0 +1,7 @@
+pandas
+requests
+s3fs
+xgboost
+scikit-learn
+apache-airflow
+matplotlib
